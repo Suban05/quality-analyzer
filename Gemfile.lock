@@ -224,7 +224,7 @@ GEM
       actionpack (>= 4.2)
       omniauth (~> 2.0)
     open3 (0.2.1)
-    pagy (9.3.4)
+    pagy (9.4.0)
     parallel (1.27.0)
     parser (3.3.8.0)
       ast (~> 2.4.1)
@@ -445,7 +445,7 @@ DEPENDENCIES
   omniauth-github (~> 2.0, >= 2.0.1)
   omniauth-rails_csrf_protection (~> 1.0, >= 1.0.2)
   open3 (~> 0.2.1)
-  pagy (~> 9.3)
+  pagy (~> 9.4)
   pg
   puma (>= 5.0)
   pundit (~> 2.5)
